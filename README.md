@@ -16,7 +16,7 @@ In the browser's JavaScript console, we can test out all of the examples in this
 lesson. Remember that we can't redeclare variables previously declared with
 `const` or `let`, so the page may have to be refreshed (which wipes away all
 declared variables) or different variable names can be chosen than those in the
-examples.
+examples.phase-1-arithmetic-lab
 
 ## Getting Started
 
